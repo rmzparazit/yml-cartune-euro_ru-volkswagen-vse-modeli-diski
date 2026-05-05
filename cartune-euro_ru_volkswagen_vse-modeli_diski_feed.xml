@@ -1,0 +1,414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-06 00:07">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3209322531">Диски для Volkswagen</category>
+    </categories>
+    <offers>
+      <offer id="312078553643032180811967315738705070394" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Оригинальные диски VW Touareg 7LA, 8Jx18 ET57, без сварки и трещин, привезены из Японии. Артикул 7L6601025T</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="288722037825636865783836462288422441675" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Контрактные диски Touareg 2005, кузов 7LA, двигатель BMV. Размер 8Jx18 ET57. Состояние отличное</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="35240184842400828379306031779760854957" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Оригинальные диски VAG для Touareg 2005. Без сварки и трещин. Размер 8Jx18 ET57. Номер 7L6601025T</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="154050516114964646952845442816315401992" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Диски Touareg 2005 7LA, оригинал, привезены из Японии. 8Jx18 ET57. Состояние без дефектов</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="213400404408629192280902522279478188691" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Оригинальные диски Volkswagen Touareg 2005, кузов 7LA. Размер 8Jx18 ET57. Артикул 7L6601025T</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="322598278085284639343988523609632464170" available="true" type="vendor.model">
+        <name>Диски Volkswagen Touareg 2005 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <price>17999</price>
+        <oldprice>19798</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_296.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_297.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_298.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_299.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>Volkswagen</vendor>
+        <model>Touareg 2005</model>
+        <description>Контрактные диски Touareg 2005, оригинал VAG. 8Jx18 ET57. Без сварки и трещин. Из Японии</description>
+        <sales_notes>8Jx18 ET57, арт. 7L6601025T</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>Volkswagen</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">7LA</param>
+        <param name="Двигатель">BMV</param>
+        <param name="Год">2005</param>
+        <param name="Номер по производителю">7L6601025T</param>
+        <param name="Размер">8Jx18 ET57</param>
+      </offer>
+      <offer id="314047852494932558129326887913610278107" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+      <offer id="152070972849455986208309803329752383556" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+      <offer id="195160689292576913998965049643165568949" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+      <offer id="125133711223235950379081648742441714807" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+      <offer id="229572431250471084988415912336752819913" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+      <offer id="298730153142566244635113767981614035546" available="true" type="vendor.model">
+        <name>Диски Volkswagen Passat 2011 B7 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_363.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_364.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_365.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_366.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>VAG</vendor>
+        <model>Volkswagen Passat 2011 B7</model>
+        <description>Оригинальные диски 7.5J R17 ET47, сняты с Volkswagen Passat 2011. В наличии на складе Москва</description>
+        <sales_notes>В наличии на складе Москва</sales_notes>
+        <custom_label_0>Б/У</custom_label_0>
+        <custom_label_1>Контрактный</custom_label_1>
+        <custom_label_2>VAG</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">B7</param>
+        <param name="Двигатель">CAXA</param>
+        <param name="Год">2011</param>
+        <param name="Номер по производителю">3AA601025E</param>
+        <param name="Размер">7.5J R17 ET47</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_312078553643032180811967315738705070394">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 c доставкой</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_288722037825636865783836462288422441675">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 с гарантией</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_35240184842400828379306031779760854957">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 заказать</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_154050516114964646952845442816315401992">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 купить</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_213400404408629192280902522279478188691">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 по низкой цене</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_322598278085284639343988523609632464170">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0daf37/</url>
+        <name>Диски Volkswagen Touareg 2005 узнать стоимость</name>
+        <description>Контрактная Диски Volkswagen Touareg (кузов 7LA, двс BMV)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_295.jpg</picture>
+      </collection>
+      <collection id="col_314047852494932558129326887913610278107">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 c доставкой</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+      <collection id="col_152070972849455986208309803329752383556">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 с гарантией</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+      <collection id="col_195160689292576913998965049643165568949">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 заказать</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+      <collection id="col_125133711223235950379081648742441714807">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 купить</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+      <collection id="col_229572431250471084988415912336752819913">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 по низкой цене</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+      <collection id="col_298730153142566244635113767981614035546">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4e/</url>
+        <name>Диски Volkswagen Passat 2011 B7 узнать стоимость</name>
+        <description>Контрактная Диски VAG Passat (кузов B7, двс CAXA)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/05/0011_05_362.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
